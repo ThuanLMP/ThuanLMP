@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThuanLMP
-- 👀 I’m interested in Java,C,C#
-- 🌱 I’m currently learning Java OOP, C# .NET
+- 👀 I’m interested in JavaScript,Java,C#
+- 🌱 I’m currently learning JavaScript,ReactJS,NextJS,C# .NET
 - 💞️ I’m looking to collaborate on Java OOP, argorithm,database...
 - 📫 How to reach me tranthuan771968@gmail.com
 
